@@ -11,7 +11,7 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
         System.out.println("You have entered the number : " + number);
-	// This is a comment line for demonstrating git stash
         System.out.println("You have entered the number : " + number);
+	// This is a comment line for demonstrating git stash
     }
 }
